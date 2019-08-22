@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56107" started-at="2019-08-21T05:18:04Z" finished-at="2019-08-21T05:19:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56107" started-at="2019-08-21T05:18:04Z" finished-at="2019-08-21T05:19:00Z">
+      <class name="com.testcases.Brokenlink_test">
+        <test-method status="PASS" signature="verify_BrokenLink_home()[pri:0, instance:com.testcases.Brokenlink_test@2ef5e5e3]" name="verify_BrokenLink_home" duration-ms="56026" started-at="2019-08-21T05:18:04Z" finished-at="2019-08-21T05:19:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_BrokenLink_home -->
+      </class> <!-- com.testcases.Brokenlink_test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
